@@ -1,4 +1,4 @@
 ini file test
 
 
-edit test txt, tapi ada bug
+edit test txt, tapi ada bug lagi
