@@ -2,4 +2,6 @@ ini index txt
 
 edit
 
+edit 1 lagi 
+
 
